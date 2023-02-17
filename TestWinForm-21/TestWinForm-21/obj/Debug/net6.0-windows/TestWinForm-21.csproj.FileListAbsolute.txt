@@ -1,0 +1,17 @@
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\bin\Debug\net6.0-windows\TestWinForm-21.exe
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\bin\Debug\net6.0-windows\TestWinForm-21.deps.json
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\bin\Debug\net6.0-windows\TestWinForm-21.runtimeconfig.json
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\bin\Debug\net6.0-windows\TestWinForm-21.dll
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\bin\Debug\net6.0-windows\TestWinForm-21.pdb
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\TestWinForm-21.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\TestWinForm_21.Form1.resources
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\TestWinForm-21.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\TestWinForm-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\TestWinForm-21.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\TestWinForm-21.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\TestWinForm-21.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\TestWinForm-21.dll
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\refint\TestWinForm-21.dll
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\TestWinForm-21.pdb
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\TestWinForm-21.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-21\Desktop\Tanya12d diplomna\TestWinForm-21\TestWinForm-21\obj\Debug\net6.0-windows\ref\TestWinForm-21.dll
